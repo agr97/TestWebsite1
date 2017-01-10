@@ -30,6 +30,3 @@ function storeData() {
 
 	localStorage.setObject('data', weightData);
 } 
-
-
-
